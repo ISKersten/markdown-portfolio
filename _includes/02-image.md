@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Logo of the Geoportal](https://www.geoportal.de/modules/startpage/img/logo_geoportal.png)
